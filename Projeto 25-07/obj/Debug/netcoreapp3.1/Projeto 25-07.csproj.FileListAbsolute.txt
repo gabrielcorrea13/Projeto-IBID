@@ -1,0 +1,21 @@
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\Projeto 25-07.exe
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\Projeto 25-07.deps.json
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\Projeto 25-07.runtimeconfig.json
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\Projeto 25-07.runtimeconfig.dev.json
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\Projeto 25-07.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\Projeto 25-07.pdb
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.csproj.AssemblyReference.cache
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.AssemblyInfoInputs.cache
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.AssemblyInfo.cs
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.csproj.CoreCompileInputs.cache
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.csproj.CopyComplete
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.dll
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.pdb
+C:\Users\aluno15\source\repos\Projeto 25-07\Projeto 25-07\obj\Debug\netcoreapp3.1\Projeto 25-07.genruntimeconfig.cache
